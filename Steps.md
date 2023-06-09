@@ -55,6 +55,22 @@ Soal 3
 <img src="Screenshots/Soal 3/change_primary_group.png">
 <img src="Screenshots/Soal 3/primary_group_changed.png">
 
-<img src="">
-<img src="">
-<img src="">
+Soal 4
+------------------------------------------------
+
+1) Melakukan ping ke alamat IP
+
+2) Membuat rule baru untuk melakukan reject kepada request paket bertipe ICMP
+<img src="Screenshots/Soal 4/adding_new_rule.png">
+
+3) Setelah rule baru ditambahkan, ping akan mengalami packet loss karena telah di-reject
+<img src="Screenshots/Soal 4/ping.png">
+
+Soal 5
+------------------------------------------------
+
+1) Menjalankann perintah sudo crontab -e dan menuliskan perintah berikut untuk melakukan otomatisasi ping ke filkom.ub.ac.id
+<img src="Screenshots/Soal 5/crontab.png">
+
+2) Setelah itu, dapat dilihat bahwa perintah ping telah terotomatisasi
+<img src="Screenshots/Soal 5/result.png">
