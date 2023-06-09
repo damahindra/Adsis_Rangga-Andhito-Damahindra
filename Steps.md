@@ -1,2 +1,2 @@
 Soal :
-Screenshots/Soal UAP Adsis.jpg
+![Alt text]("Screenshots/Soal UAP Adsis.jpg")
