@@ -1,2 +1,3 @@
 Soal :
-![Alt text]("Screenshots/Soal UAP Adsis.jpg")
+
+![Soal UAP]("Screenshots/Soal UAP Adsis.jpg")
