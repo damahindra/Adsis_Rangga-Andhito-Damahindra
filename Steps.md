@@ -1,3 +1,3 @@
 Soal :
 
-![Soal UAP]("Screenshots/Soal UAP Adsis.jpg")
+![Soal UAP]("/workspaces/Adsis_Rangga-Andhito-Damahindra/Screenshots/Soal UAP Adsis.jpg")
