@@ -8,7 +8,7 @@ Soal 1
 1) Membuat direktori baru bernama "UAP-Adsis"
 <img src="Screenshots/Soal 1/make_folder.png">
 
-2) Membuat file txt bernama "catatan-rangga"
+2) Membuat file txt bernama "catatannya-rangga"
 <img src="Screenshots/Soal 1/make_txt_file.png">
 
 3) Mengisikan file yang telah dibuat dengan nama dan nim
